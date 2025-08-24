@@ -1,0 +1,17 @@
+# ---- Project data & artifacts (keep these local) ----
+*.csv               # any raw CSVs you may download locally
+
+# ---- Python caches & temp files ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- OS/editor noise ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
